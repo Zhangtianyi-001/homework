@@ -118,7 +118,7 @@ class HomeworkApplicationTests {
 
     public static void main(String[] args) {
         int[] nums = {1,2,4,8,16,32,64,128};
-        int x = 82;
+        int x = 821;
         int i = threeSumClosest(nums, x);
         System.out.println(i);
     }
